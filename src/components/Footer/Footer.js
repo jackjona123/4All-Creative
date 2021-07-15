@@ -91,13 +91,7 @@ function Footer() {
               <FaInstagram />
             </SocialIconLink>
             <SocialIconLink
-              href={
-                '//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber'
-              }
-              rel='noopener noreferrer'
-              target='_blank'
-              aria-label='Youtube'
-            >
+              href='/' rel='noopener noreferrer' target='_blank' aria-label='Youtube'>
               <FaYoutube />
             </SocialIconLink>
             <SocialIconLink href='/' target='_blank' aria-label='Twitter'>
